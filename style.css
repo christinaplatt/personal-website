@@ -1,0 +1,38 @@
+.fun{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+#buddy{
+	height: 220px;
+	width: 220px;
+	
+}
+#sam{
+	height: auto;
+	width: auto;
+	max-width: 20px;
+	max-height: 20px;
+}
+
+.wrapper {
+	
+	text-align:center;
+	width:900px;
+	margin: 0 auto;
+}
+h1 {
+	text-align: center;
+	font-style: sans-serif;
+	margin: 30px;
+	padding:30px;
+}
+#otis {
+	list-style-type: none;
+	
+	
+}
+li{
+	display: inline;
+}
+
+
